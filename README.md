@@ -1,2 +1,3 @@
 # PacketsManage
-Utilização dos gerenciadores de pacotes para distribuições derivadas do debian e redhat, utilizando os gerenciadores apt,dpkg,yum,rpm ShellScript Linux
+Using the package managers for distributions derived from debian and redhat, using the apt, dpkg, yum, rpm
+#ShellScript Linux
